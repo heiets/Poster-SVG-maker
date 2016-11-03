@@ -1,0 +1,14 @@
+{
+  "name": "React SVG editor",
+  "version": "1.0.0",
+  "description": "React SVG online editor",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Olexandr Heiets",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
