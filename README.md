@@ -1,4 +1,6 @@
 # Poster-SVG-maker (react js)
-![Upload the image](http://i.imgur.com/1P1YB3C.jpg)
+![Upload the image](http://i.imgur.com/W4fb1oD.png)
 # How to run?
-npm start
+1.Download
+2.npm start
+3.Have fun!
